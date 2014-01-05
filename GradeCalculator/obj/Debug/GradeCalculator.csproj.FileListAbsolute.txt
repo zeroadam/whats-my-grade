@@ -1,0 +1,10 @@
+C:\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.Cache
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.frmMain.resources
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.SettingsForm.resources
+C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache

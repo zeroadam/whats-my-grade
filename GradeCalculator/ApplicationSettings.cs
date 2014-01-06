@@ -1,14 +1,4 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="ApplicationSettings.cs" company="Talegen Media, LLC">
-//     Copyright (c) 2012-2013 Talegen Media, LLC. All rights reserved.
-// </copyright>
-// <author>Rob Kennedy</author>
-// <remarks>
-// Private Source Code - Do Not Distribute
-// 2012-06-12   RK              Initial Release
-// 2013-01-27   RK              Refactored 
-// </remarks>
-//-----------------------------------------------------------------------
+﻿
 namespace GradeCalculator
 {
     using System;

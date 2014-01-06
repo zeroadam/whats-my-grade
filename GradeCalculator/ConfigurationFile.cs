@@ -1,12 +1,4 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="ConfigurationFile.cs" company="Talegen Media, LLC">
-//     Copyright (c) 2013 Talegen Media, LLC. All rights reserved.
-// </copyright>
-// <author>Rob Kennedy</author>
-// <remarks>
-// Private Source Code - Do Not Distribute
-// </remarks>
-//-----------------------------------------------------------------------
+﻿
 namespace GradeCalculator
 {
     using System;
@@ -20,7 +12,7 @@ namespace GradeCalculator
     /// General configuration file super-class used to build interfaces
     /// for retrieving and saving xml-configuration files.
     /// </summary>
-    /// <authorname>Rob Kennedy</authorname>
+    
     public class ConfigurationFile 
     {
         #region Private Properties

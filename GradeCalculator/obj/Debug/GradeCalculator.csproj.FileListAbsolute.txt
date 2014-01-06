@@ -8,3 +8,13 @@ C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
 C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.frmMain.resources
 C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.SettingsForm.resources
 C:\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\adam\whats-my-grade\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.pdb
+C:\Users\adam\whats-my-grade\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\adam\whats-my-grade\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.frmMain.resources
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.SettingsForm.resources
+C:\Users\adam\whats-my-grade\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.Cache

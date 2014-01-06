@@ -17,7 +17,7 @@ namespace GradeCalculator
         static int previousTextTop = 17;
         static int previousLabelTop = 20;
         IDictionary<string, gradeEntry> col = new Dictionary<string, gradeEntry>();
-        string settingsPath = "gradecalculator.xml";
+        string settingsPath = "whatsmygrade.xml";
 
         public frmMain()
         {

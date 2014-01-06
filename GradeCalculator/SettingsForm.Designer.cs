@@ -80,7 +80,6 @@
             this.radGradingPercent.Name = "radGradingPercent";
             this.radGradingPercent.Size = new System.Drawing.Size(99, 17);
             this.radGradingPercent.TabIndex = 1;
-            this.radGradingPercent.TabStop = true;
             this.radGradingPercent.Text = "Percent System";
             this.radGradingPercent.UseVisualStyleBackColor = true;
             this.radGradingPercent.CheckedChanged += new System.EventHandler(this.radGradingPercent_CheckedChanged);
@@ -92,7 +91,6 @@
             this.radGradingPoints.Name = "radGradingPoints";
             this.radGradingPoints.Size = new System.Drawing.Size(86, 17);
             this.radGradingPoints.TabIndex = 0;
-            this.radGradingPoints.TabStop = true;
             this.radGradingPoints.Text = "Point System";
             this.radGradingPoints.UseVisualStyleBackColor = true;
             this.radGradingPoints.CheckedChanged += new System.EventHandler(this.radGradingPoints_CheckedChanged);

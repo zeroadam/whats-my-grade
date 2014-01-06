@@ -19,12 +19,12 @@ namespace GradeCalculator
         IDictionary<string, gradeEntry> col = new Dictionary<string, gradeEntry>();
         string settingsPath = "whatsmygrade.xml";
 
+        public ApplicationSettings Settings { set; get; }
+
         public frmMain()
         {
             InitializeComponent();
         }
-
-        public ApplicationSettings Settings { set; get; }
 
         private void resetDisplay()
         {
@@ -168,7 +168,11 @@ namespace GradeCalculator
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            this.Settings = (ApplicationSettings)ApplicationSettings.Deserialize(settingsPath, typeof(ApplicationSettings));
+            if (System.IO.File.Exists(settingsPath))
+                this.Settings = (ApplicationSettings)ApplicationSettings.Deserialize(settingsPath, typeof(ApplicationSettings));
+            else
+                this.Settings = new ApplicationSettings(settingsPath);
+
             if (this.Settings.GradingMethod == GradingMethods.Points)
                 this.lblPointsNeeded.Text = "Points Needed";
 

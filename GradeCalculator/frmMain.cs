@@ -65,6 +65,7 @@ namespace GradeCalculator
                 else if (int.Parse(x.txtEntry.Text) < 1)
                 {
                     // Do nothing.. same as adding 0
+                    // Is there a better way to do this?
                 }
                 else
                 {

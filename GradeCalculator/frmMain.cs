@@ -72,6 +72,7 @@ namespace GradeCalculator
                 }
             }
 
+            // Output results
             txtTotalPoints.Text = total.ToString();
             txtPointsA.Text = (this.Settings.LetterGradeA - total).ToString();
             txtPointsB.Text = (this.Settings.LetterGradeB - total).ToString();

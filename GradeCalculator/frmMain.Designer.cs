@@ -200,9 +200,9 @@ namespace GradeCalculator
             this.lblGradeDesired.AutoSize = true;
             this.lblGradeDesired.Location = new System.Drawing.Point(21, 75);
             this.lblGradeDesired.Name = "lblGradeDesired";
-            this.lblGradeDesired.Size = new System.Drawing.Size(75, 13);
+            this.lblGradeDesired.Size = new System.Drawing.Size(66, 13);
             this.lblGradeDesired.TabIndex = 14;
-            this.lblGradeDesired.Text = "Grade Desired";
+            this.lblGradeDesired.Text = "Letter Grade";
             // 
             // textBox11
             // 

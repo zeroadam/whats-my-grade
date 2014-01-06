@@ -168,12 +168,13 @@ namespace GradeCalculator
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-            // If the settings file exists load it, if not, create a new one.
+            // If the settings file exists load it, if not, create a new one
             if (System.IO.File.Exists(settingsPath))
                 this.Settings = (ApplicationSettings)ApplicationSettings.Deserialize(settingsPath, typeof(ApplicationSettings));
             else
                 this.Settings = new ApplicationSettings(settingsPath);
 
+            // Change the label text depending on the grading method selected
             if (this.Settings.GradingMethod == GradingMethods.Points)
                 this.lblPointsNeeded.Text = "Points Needed";
 
